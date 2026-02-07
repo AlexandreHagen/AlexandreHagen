@@ -45,8 +45,17 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreHagen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreHagen&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+  <img src="https://raw.githubusercontent.com/AlexandreHagen/AlexandreHagen/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexandreHagen/AlexandreHagen/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/AlexandreHagen/AlexandreHagen/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexandreHagen/AlexandreHagen/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/AlexandreHagen/AlexandreHagen/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="170" />
 </p>
 
 <p align="center">
